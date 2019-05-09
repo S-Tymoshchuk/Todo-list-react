@@ -1,0 +1,10 @@
+.todo-app{
+    width: 400px;
+    margin: 100px auto;
+}
+
+.panel{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
